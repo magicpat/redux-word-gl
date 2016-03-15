@@ -7,8 +7,8 @@ It's built with React / Redux / Sagas.
 
 **TODO:**
 
-[ ] Fix row-collapsing, whenever letters are destroyed
-[ ] Add dictionary for word validation
-[ ] Add score addition mechanics
-[ ] Add nicer score / input display
-[ ] Add design
+* [ ] Fix row-collapsing, whenever letters are destroyed
+* [ ] Add dictionary for word validation
+* [ ] Add score addition mechanics
+* [ ] Add nicer score / input display
+* [ ] Add design
