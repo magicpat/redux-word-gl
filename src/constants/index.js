@@ -1,0 +1,13 @@
+export const INIT_GAME = 'INIT_GAME';
+export const ADD_ROW = 'ADD_ROW';
+export const GUESS_WORD = 'GUESS_WORD';
+export const SET_WORDS = 'SET_WORDS';
+export const SET_BOARD = 'SET_BOARD';
+export const START_GAME = 'START_GAME';
+export const END_GAME = 'END_GAME';
+export const ADD_SCORE = 'SET_SCORE';
+export const TICK = 'TICK';
+export const ADD_INPUT = 'ADD_INPUT';
+export const POP_INPUT = 'POP_INPUT';
+export const RECEIVE_KEYCODE = 'RECEIVE_KEYCODE';
+export const ENTER_INPUT = 'ENTER_INPUT';

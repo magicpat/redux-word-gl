@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/babel-plugin.*
+.*/node_modules/fbjs.*
+
+[include]
+node_modules/babel-polyfill
+
+[libs]
+interface
+node_modules/immutable/type-definitions
+
+[options]
+
+[version]
+0.22.1
