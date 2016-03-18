@@ -31,6 +31,7 @@ class App extends React.Component {
       return suppressBackspace(e);
     };
 
+    // $FlowFixMe: suppress this, until I find a way to declare onkeydown on Document
     document.onkeydown = handleKeyPress;
   }
 
